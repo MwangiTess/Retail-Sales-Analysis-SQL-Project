@@ -108,6 +108,6 @@ This project successfully demonstrates how data-driven decisions can optimize a 
 
 ## 👤 About Me
 I'm a data analyst passionate about turning data into actionable insights. Connect with me:
-- 💼 [LinkedIn](www.linkedin.com/in/mwangi-teresia)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mwangi-teresia/)
 
 *This project is part of my portfolio showcasing SQL, data analysis, and business intelligence skills.*
